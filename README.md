@@ -1,9 +1,9 @@
 # 适用于V3以上版本的重构版插件现已发布
-[详情请看](https://github.com/Plantforlife/MoviePilot-Plugins)
+## [详情请看](https://github.com/Plantforlife/MoviePilot-Plugins)
 
 
 
-以下已过时
+## **以下已过时**
 
 
 ## 适用于[MoviePilot](https://github.com/jxxghp/MoviePilot)的重命名规则模板
