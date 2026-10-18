@@ -1,3 +1,11 @@
+# 适用于V3以上版本的重构版插件现已发布
+[详情请看](https://github.com/Plantforlife/MoviePilot-Plugins)
+
+
+
+以下已过时
+
+
 ## 适用于[MoviePilot](https://github.com/jxxghp/MoviePilot)的重命名规则模板
 所有模板都基于文件名提取
 提供了多行模板与单行模板，若无需修改格式可直接使用单行版。
